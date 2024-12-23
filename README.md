@@ -40,7 +40,6 @@ Welcome to my collection of Python projects! In this repository, you'll find var
 
 **Technologies Used**:
 - Python
-- SQLite (for database management)
 
 ## Setup
 
